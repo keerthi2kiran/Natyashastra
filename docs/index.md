@@ -5,7 +5,7 @@
 ## ಭಾಗಗಳು 
 
 {% for i in (1..30 ) %}
-- [Chapter {{ i }}](chapter_{{ i }}.md)
+- [Chapter {{ i }}](chapter_{{ i }})
 {% endfor %}
 - [Chapter 33](chapter_33.md)
 {% for i in (35..37 ) %}
