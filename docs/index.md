@@ -7,9 +7,9 @@
 {% for i in (1..30 ) %}
 - [Chapter {{ i }}](chapter_{{ i }})
 {% endfor %}
-- [Chapter 33](chapter_33.md)
+- [Chapter 33](chapter_33)
 {% for i in (35..37 ) %}
-- [Chapter {{ i }}](chapter_{{ i }}.md)
+- [Chapter {{ i }}](chapter_{{ i }})
 {% endfor %}
 ---
 [View on GitHub](https://github.com/keerthi2kiran/Natyashastra)
