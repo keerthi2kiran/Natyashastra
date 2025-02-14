@@ -133,4 +133,4 @@
 
 ---
 
-  [Next →](chapter_36.md)
+[← Previous](chapter_33.md) | [Next →](chapter_36.md)
